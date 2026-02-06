@@ -1,5 +1,5 @@
 # SiLentur
-## Kerja Praktek DPMD
+## Kerja Praktek (KP) DPMD
 
 ## Dosen Pembimbing KP :  Fortia Magfira, M.Kom.
 
